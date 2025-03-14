@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "build": "echo \"No build instructions or code files present in the repository.\"",
+    "test": "cd .devcontainer && ls"
+  }
+}
