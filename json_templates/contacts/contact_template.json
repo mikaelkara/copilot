@@ -1,0 +1,19 @@
+{
+  "name": {
+    "type": "string",
+    "minLength": 1,
+    "maxLength": 50,
+    "description": "Kişinin adı"
+  },
+  "surname": {
+    "type": "string",
+    "minLength": 1,
+    "maxLength": 50,
+    "description": "Kişinin soyadı"
+  },
+  "phone_number": {
+    "type": "string",
+    "pattern": "^\\+90[0-9]{10}$",
+    "description": "Kişinin telefon numarası, +90 ile başlamalı ve 10 haneli olmalı"
+  }
+}

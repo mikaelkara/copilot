@@ -1,0 +1,10 @@
+# Kişi Bilgileri Şablonu
+
+Ad: 
+Soyad: 
+Telefon Numarası: 
+
+# Doğrulama Kuralları
+- Ad en az 1, en fazla 50 karakter olmalıdır.
+- Soyad en az 1, en fazla 50 karakter olmalıdır.
+- Telefon numarası +90 ile başlamalı ve 10 haneli olmalıdır.
